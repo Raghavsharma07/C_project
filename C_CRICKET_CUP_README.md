@@ -6,7 +6,7 @@
 **GROUP:** 11 - B
 
 ### PROJECT PROPOSAL AIM :
-DESIGNING A SIMPLE CRICKET GAME IN C AS A PART OF RECREATION FOR STUDENTS AMID THE TOUGH TIMES OF ONGOING PANDEMIC .
+Designing a simple cricket game in C as a part of recreation for students amid the tough times of ongoing pandemic .
 
 ### Submission Date : 31 / 08 / 2021
 
